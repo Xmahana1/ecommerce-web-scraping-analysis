@@ -1,5 +1,5 @@
 
-# 🐾 Africam Safari E-commerce Data Analysis
+# 📊 E-commerce Web Scraping & Data Analysis
 
 From raw data to business insights.
 
@@ -9,7 +9,7 @@ From raw data to business insights.
 
 ## 📌 Project Overview
 
-This project analyzes an e-commerce store from Africam Safari using web scraping, data cleaning, and exploratory data analysis (EDA).
+This project analyzes an e-commerce store using web scraping, data cleaning, and exploratory data analysis.
 
 The goal was to extract real product data, transform it into a structured dataset, and generate actionable business insights.
 
