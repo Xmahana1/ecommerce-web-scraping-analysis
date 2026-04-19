@@ -1,9 +1,16 @@
 
 # 📊 E-commerce Web Scraping & Data Analysis
 
-From raw data to business insights.
-
 ![Project Cover](images/cover.png)
+
+End-to-end data analysis project: from web scraping and data cleaning to actionable business insights.
+
+## 🔍 Key Highlights
+
+- Built a complete data pipeline from raw HTML to structured dataset
+- Cleaned and transformed messy real-world data (prices, duplicates)
+- Performed exploratory data analysis (EDA) to identify pricing patterns
+- Generated business insights for pricing strategy and product segmentation
 
 ---
 
